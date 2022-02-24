@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "24thFeb2022AKS-dev-controller"
+description: "CloudBees CI configuration bundle for the 24thFeb2022AKS dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/24thfeb2022aks/dev-controller"
+parent: "base"
